@@ -1,0 +1,213 @@
+    1  cd Desktop
+    2  touch first.txt
+    3  cd Desktop
+    4  rm first.txt
+    5  touch move.txt
+    6  man mv 
+    7  mv - move move.txt
+    8  mv - Desktop move.txt
+    9  mv -move.txt Desktop
+   10  mv - move.txt Desktop
+   11  mv - move.txt Files
+   12  cat > abc.txt
+   13  history
+   14  ls -l
+   15  pwd
+   16  vi move.txt
+   17  touch practice.txt
+   18  vi practice.txt
+   19  sudo apt install vim
+   20  where am i
+   21  who
+   22  ping -t google.com
+   23  clear
+   24  python --version
+   25  python3 --version
+   26  pip install numoy
+   27  sudo apt install numpy
+   28  sudo apt install python3-pil
+   29  sudo apt udate python3
+   30  sudo apt update python
+   31  import PIL.Image
+   32  sudo apt install graphicsmagick-compat
+   33  sudo apt install graphicsmagick-7.q16
+   34  sudo apt install graphicsmagick-7.q16hdri
+   35  sudo apt install python3-pill
+   36  sudo apt install python3-pil
+   37  python3
+   38  clear
+   39  sudo apt install python3-pip
+   40  apt-get update
+   41  sudo apt install python3-pip3
+   42  pip3 install pandas
+   43  pip install pandas
+   44  sudo apt install python3-pip
+   45  sudo apt install pandas
+   46  python3
+   47  atom
+   48  adom
+   49  sudo snap install adom
+   50  atom
+   51  adom
+   52  atom
+   53  cd Downloads
+   54  ls
+   55  sudo dpkg code_1.72.2-1665614327_am64.deb
+   56  sudo dpkg -i code_1.72.2-1665614327_am64.deb
+   57  sudo dpkg -i code_1.72.2-1665614327_amd64.deb
+   58  code
+   59  apt install python3-pip
+   60  sudo apt install python3-pip
+   61  python3 --version
+   62  sudo apt update
+   63  apt list --upgradeable
+   64  apt list --upgrade-all
+   65  apt list --upgrade
+   66  sudo apt update
+   67  code
+   68  /bin/python3
+   69  cd Downloads
+   70  ls
+   71  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   72  sudo apt install -f
+   73  /bin/python3
+   74  /bin/python3 /home/wajahat/python/v3_variable_datatype.py
+   75  /bin/python3
+   76  /bin/python3 /home/wajahat/python/v5_list.py
+   77  pwd
+   78  cs /
+   79  cd /
+   80  pwd
+   81  ls
+   82  clear
+   83  exit()
+   84  /bin/python3 /home/wajahat/python/v10_if_else.py
+   85  code
+   86  /bin/python3 /home/wajahat/python--problems/p1_armstrong_number.py
+   87  man ls
+   88  ls
+   89  cd Desktop
+   90  mkdr wajahat
+   91  mkdir wajahat
+   92  cd wajahat
+   93  ls
+   94  cd ..
+   95  ..
+   96  cd ..
+   97  touch test.txt
+   98  ls
+   99  touch test.txt.txt.txt
+  100  rm test.txt
+  101  ls
+  102  rm test.txt.txt.txt
+  103  rm test.txt
+  104  clear
+  105  touch.txt
+  106  touch abc.txt
+  107  rm -r abc.txt
+  108  lsa
+  109  ls
+  110  cd python
+  111  ls
+  112  cd ..
+  113  cd snap
+  114  ls
+  115  cd adom
+  116  ls
+  117  cd currenr
+  118  cd current
+  119  ls
+  120  cd ..
+  121  cd Desktop
+  122  cd Documents
+  123  clear
+  124  ls
+  125  cd ..
+  126  ls
+  127  g++ first.cpp
+  128  ./a.out
+  129  python3
+  130  python --version
+  131  python3 --version
+  132  sudo apt-get install htop
+  133  hisoty
+  134  nano test.txt
+  135  history
+  136  > allcommands.txt
+  137  ls
+  138  history > allcommands.txt
+  139  cat allcommands.txt 
+  140  gcc
+  141  g++
+  142  --version
+  143  linux --version
+  144  whereis gcc
+  145  whereis g++
+  146  gcc version
+  147  gcc --version
+  148  g++ --version
+  149  gedit
+  150  kill 7465
+  151  ls
+  152  ls 'OS Lab work'
+  153  cd ls 'OS Lab work'
+  154  cd  'OS Lab work'
+  155  ./first.cpp
+  156  history
+  157  history > final.txt
+  158  cat final.txt
+  159  sudo apt install gnome -tweaks
+  160  sudo apt install gnome-tweaks
+  161  sudo apt-get install chrome-gnome-shell
+  162  sudo apt install git
+  163  sudo apt update && sudo apt upgrade
+  164  sudo apt install gnome-tweaks gnome-shell-extensions -y
+  165  sudo ubuntu-drives autoinstall
+  166  sudo ubuntu-drivers autoinstall
+  167  sudo apt install git
+  168  git clone https://github.com/vinceliuice/WhiteSur-gtk-theme.git
+  169  apt install git
+  170  sudo apt install git
+  171  open()
+  172  ls
+  173  cd Wajahat
+  174  touch Lab3.txt
+  175  open() exit
+  176  open(Lab3.txt,writing)
+  177  open('Lab3.txt,writing')
+  178  open('Lab3.txt',writing)
+  179  ps -el
+  180  history
+  181  ls
+  182  cd Wajahat
+  183  ls
+  184  g++ wait.cpp -o wait
+  185  ./wait
+  186  task1.cpp
+  187  touch task1.cpp
+  188  touch myfile.txt
+  189  gedit code.c
+  190  touch mycardDetails.cpp
+  191  g++ mycardDetails.cpp -o mycardDetails
+  192  ./mycardDetails
+  193  touch carddetails.txt
+  194  ls
+  195  ./mycardDetails
+  196  cat mycardDetails
+  197  ./mycardDetails
+  198  g++ mycardDetails.cpp -o mycardDetails
+  199  ./mycardDetails
+  200  cat
+  201  ls
+  202  cat > carddetails.txt 
+  203  history
+  204  g++ mycardDetails.cpp -o mycardDetails
+  205  ls
+  206  cd Wajahat
+  207  ls
+  208  cat > carddetails
+  209  g++ mycardDetails.cpp
+  210  g++ mycardDetails.cpp -o mycardDetails
+  211  cat  carddetails
+  212  cat  carddetails.txt
+  213  history > lab3.txt
